@@ -1,0 +1,16 @@
+Gitignore file is a text file in the project where we keep the files and folders which we tell not to track.
+.mtj.tmp/
+*.class
+*.jar
+*.war
+*.ear
+*.nar
+hs_err_pid* 
+
+The tip of your main branch is moved forward to the end of your feature branch using fast-forward merges. This cleanly integrates your feature branch back into your main branch while maintaining the sequential order of all contributions made there.
+
+Each developer can separate their work from other developers' efforts by branching out from the original code base.
+
+Usually we have a single Git remote repository
+
+
